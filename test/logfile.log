@@ -1,0 +1,41 @@
+2022-04-15 00:05:40,076 :INFO : test_e2e : getting all the card titles
+2022-04-15 00:05:40,254 :INFO : test_e2e : iphone X
+2022-04-15 00:05:40,315 :INFO : test_e2e : Samsung Note 8
+2022-04-15 00:05:40,370 :INFO : test_e2e : Nokia Edge
+2022-04-15 00:05:40,432 :INFO : test_e2e : Blackberry
+2022-04-15 00:05:41,331 :INFO : test_e2e : Entering country name as ind
+2022-04-15 00:05:47,719 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-04-15 00:09:16,807 :INFO : test_formSubmission :  first name is Anguvel
+2022-04-15 00:09:19,192 :INFO : test_formSubmission :  first name is Giii
+2022-04-15 00:09:19,192 :INFO : test_formSubmission :  first name is Giii
+2022-04-15 00:09:28,330 :INFO : test_e2e : getting all the card titles
+2022-04-15 00:09:28,457 :INFO : test_e2e : iphone X
+2022-04-15 00:09:28,511 :INFO : test_e2e : Samsung Note 8
+2022-04-15 00:09:28,563 :INFO : test_e2e : Nokia Edge
+2022-04-15 00:09:28,620 :INFO : test_e2e : Blackberry
+2022-04-15 00:09:29,443 :INFO : test_e2e : Entering country name as ind
+2022-04-15 00:09:35,748 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-04-15 00:15:09,452 :INFO : test_formSubmission :  first name is Anguvel
+2022-04-15 00:15:11,778 :INFO : test_formSubmission :  first name is Giii
+2022-04-15 00:15:11,778 :INFO : test_formSubmission :  first name is Giii
+2022-04-15 00:15:20,897 :INFO : test_e2e : getting all the card titles
+2022-04-15 00:15:21,049 :INFO : test_e2e : iphone X
+2022-04-15 00:15:21,107 :INFO : test_e2e : Samsung Note 8
+2022-04-15 00:15:21,165 :INFO : test_e2e : Nokia Edge
+2022-04-15 00:15:21,220 :INFO : test_e2e : Blackberry
+2022-04-15 00:15:22,127 :INFO : test_e2e : Entering country name as ind
+2022-04-15 00:15:28,946 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-04-15 00:22:07,861 :INFO : test_formSubmission :  first name is Anguvel
+2022-04-15 00:22:10,235 :INFO : test_formSubmission :  first name is Giii
+2022-04-15 00:22:10,235 :INFO : test_formSubmission :  first name is Giii
+2022-04-15 00:22:19,655 :INFO : test_e2e : getting all the card titles
+2022-04-15 00:22:19,779 :INFO : test_e2e : iphone X
+2022-04-15 00:22:19,917 :INFO : test_e2e : Samsung Note 8
+2022-04-15 00:22:19,975 :INFO : test_e2e : Nokia Edge
+2022-04-15 00:22:20,032 :INFO : test_e2e : Blackberry
+2022-04-15 00:22:20,967 :INFO : test_e2e : Entering country name as ind
+2022-04-15 00:22:27,258 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
